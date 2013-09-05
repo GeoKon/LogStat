@@ -1,5 +1,6 @@
 
 @echo off
+REM Comment:
 REM This batch file copies the necessary files to the LogStat subdirectory
 REM You must run this while in D:\Dropbox\PythonFiles\
 
